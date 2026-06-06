@@ -15,4 +15,12 @@ This is a repository i have created to keep a track of my leetcode problems.
     <th>Add Digits</th>
     <th> Easy </th>
     <th> <a href="https://github.com/Anushkag22/Leetcode-Problems/blob/main/Easy/Add%20Digits"> View Solution </a></th>
+</tr>
+<tr>
+    <th> 2 </th>
+    <th> 709 </th>
+    <th>To Lower Case </th>
+    <th> Easy </th>
+    <th> <a href="https://github.com/Anushkag22/Leetcode-Problems/blob/main/Easy/To%20Lower%20Case"> View Solution </a><th>
+</tr>
 </html>
