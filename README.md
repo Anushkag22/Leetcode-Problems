@@ -23,4 +23,11 @@ This is a repository i have created to keep a track of my leetcode problems.
     <th> Easy </th>
     <th> <a href="https://github.com/Anushkag22/Leetcode-Problems/blob/main/Easy/To%20Lower%20Case"> View Solution </a><th>
 </tr>
+<tr>
+    <th> 3 </th>
+    <th> 2974 </th>
+    <th>Minimum Number Game</th>
+    <th> Easy </th>
+    <th> <a href="https://github.com/Anushkag22/Leetcode-Problems/blob/main/Easy/Minimum%20Number%20Game"> View Solution </a></th>
+</tr>
 </html>
