@@ -44,4 +44,11 @@ This is a repository i have created to keep a track of my leetcode problems.
     <th> Med. </th>
     <th> <a href="https://github.com/Anushkag22/Leetcode-Problems/blob/main/Med/Factorial%20Trailing%20Zeroes"> View Solution </a></th>
 </tr>
+<tr>
+    <th> 6 </th>
+    <th> 1979 </th>
+    <th>Find Greatest Common Divisor of Array</th>
+    <th> Easy </th>
+    <th> <a href="https://github.com/Anushkag22/Leetcode-Problems/blob/main/Easy/Find%20Greatest%20Common%20Divisor%20of%20Array"> View Solution </a></th>
+</tr>
 </html>
