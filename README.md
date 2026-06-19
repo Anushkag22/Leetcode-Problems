@@ -37,4 +37,11 @@ This is a repository i have created to keep a track of my leetcode problems.
     <th> Easy </th>
     <th> <a href="https://github.com/Anushkag22/Leetcode-Problems/blob/main/Easy/Palindrome"> View Solution </a></th>
 </tr>
+<tr>
+    <th> 5 </th>
+    <th> 172 </th>
+    <th>Factorial Trailing Zeroes</th>
+    <th> Med. </th>
+    <th> <a href="https://github.com/Anushkag22/Leetcode-Problems/blob/main/Med/Factorial%20Trailing%20Zeroes"> View Solution </a></th>
+</tr>
 </html>
