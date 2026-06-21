@@ -51,4 +51,11 @@ This is a repository i have created to keep a track of my leetcode problems.
     <th> Easy </th>
     <th> <a href="https://github.com/Anushkag22/Leetcode-Problems/blob/main/Easy/Find%20Greatest%20Common%20Divisor%20of%20Array"> View Solution </a></th>
 </tr>
+<tr>
+    <th> 7 </th>
+    <th> 2413 </th>
+    <th>Smallest Even Multiple</th>
+    <th> Easy </th>
+    <th> <a href="https://github.com/Anushkag22/Leetcode-Problems/blob/main/Easy/Smallest%20Even%20Multiple"> View Solution </a></th>
+</tr>
 </html>
